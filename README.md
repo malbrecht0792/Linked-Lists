@@ -1,4 +1,4 @@
-<h1>Linked Lists<h1>
+<h1>Linked Lists</h1>
 
 This project features a class for a linked list in Ruby and various methods for the Linked List
 
